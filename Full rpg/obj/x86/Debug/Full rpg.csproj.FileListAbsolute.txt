@@ -1,0 +1,6 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\Full rpg\bin\Debug\Full rpg.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Full rpg\bin\Debug\Full rpg.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\Full rpg\obj\x86\Debug\Full rpg.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Full rpg\obj\x86\Debug\Full rpg.pdb
+C:\Users\eahscs\Desktop\Full rpg\Full rpg\obj\x86\Debug\Full rpg.exe
+C:\Users\eahscs\Desktop\Full rpg\Full rpg\obj\x86\Debug\Full rpg.pdb
